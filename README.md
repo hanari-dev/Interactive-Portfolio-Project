@@ -5,8 +5,11 @@ Interactive web portfolio project showcasing DOM events, array filtering, and re
 [View Portfolio on GitHub Pages](https://hanari-dev.github.io/Interactive-Portfolio-Project/)
 
 ## Preview
-**Main Portfolio View** `![Main Portfolio View](hub.png)`
-**Filtered Projects** `![Project Filtering in Action](filter.png)`
+### Main Portfolio View
+![Main Portfolio View](hub.png)
+
+### Filtered Projects
+![Project Filtering in Action](filter.png)
 
 ## Technical Highlights 
 - **DOM Manipulation:** Dynamically rendering project cards using JavaScript template literals.
