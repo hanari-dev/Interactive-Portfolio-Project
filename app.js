@@ -1,5 +1,3 @@
-alert("The JS is loading!");
-
 /* =============================================================
    WEEK 6 ASSIGNMENT — "Interactive Portfolio"
    DOM & Events Starter File
